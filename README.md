@@ -7,9 +7,6 @@
 - 😄 Pronouns: call me Shuichi
 - ⚡ Curiosity: I am a student excited about technology, addicted to science fiction and I love outdoor activities.
 
-<div>   <img align="right" src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>
-</div> 
-
 <div>
   <a href="https://www.instagram.com/marcosshuichi/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuichi16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
