@@ -7,3 +7,8 @@
 - 😄 Pronouns: call me Shuichi
 - ⚡ Curiosity: I am a student excited about technology, addicted to science fiction and I love outdoor activities.
 
+
+<div>
+  <a href="https://www.instagram.com/marcosshuichi/">
+    <img height="180em" src="
+
